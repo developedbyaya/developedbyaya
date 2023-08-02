@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @developedbyaya
+- 👀 I’m interested in Web Development and general programming and software development.  
+- 🌱 I’m currently on my front-end development journey. 
+- 💞️ I’m looking to collaborate on open source projects. 
